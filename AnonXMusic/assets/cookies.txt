@@ -1,24 +1,24 @@
-[debug] System config: []
-[debug] User config: ['-o', 'I:/youtube-dl/%(extractor)s/%(title)s-%(uploader)s-%(channel_id)s-%(channel)s-%(id)s.%(ext)s', '-f', 'bestvideo[height<=?1080]+bestaudio/best', '--write-thumbnail', '--cookies', 'C:UsersGEN32UCAppDataRoamingyoutube-dlcookies.txt', '--write-sub', '--write-auto-sub', '--sub-lang', 'en-GB']
-[debug] Custom config: []
-[debug] Command-line args: ['https://www.facebook.com/bryan.castillo.5836711/videos/1825626214282572', '--verbose']
-[debug] Encodings: locale cp1252, fs utf-8, out utf-8, pref cp1252
-[debug] youtube-dl version 2021.03.14
-[debug] Python version 3.8.2 (CPython) - Windows-10-10.0.19041-SP0
-[debug] exe versions: ffmpeg N-92966-gd52a1be4e3, ffprobe N-92966-gd52a1be4e3
-[debug] Proxy map: {}
-[facebook] 1825626214282572: Downloading webpage
-[facebook] 1825626214282572: Downloading webpage
-ERROR: Cannot parse data; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
-Traceback (most recent call last):
-  File "c:\users\gen32uc\appdata\local\programs\python\python38\lib\site-packages\youtube_dl\YoutubeDL.py", line 806, in wrapper
-    return func(self, *args, **kwargs)
-  File "c:\users\gen32uc\appdata\local\programs\python\python38\lib\site-packages\youtube_dl\YoutubeDL.py", line 827, in __extract_info
-    ie_result = ie.extract(url)
-  File "c:\users\gen32uc\appdata\local\programs\python\python38\lib\site-packages\youtube_dl\extractor\common.py", line 534, in extract
-    ie_result = self._real_extract(url)
-  File "c:\users\gen32uc\appdata\local\programs\python\python38\lib\site-packages\youtube_dl\extractor\facebook.py", line 677, in _real_extract
-    return self._extract_from_url(real_url, video_id)
-  File "c:\users\gen32uc\appdata\local\programs\python\python38\lib\site-packages\youtube_dl\extractor\facebook.py", line 591, in _extract_from_url
-    raise ExtractorError('Cannot parse data')
-youtube_dl.utils.ExtractorError: Cannot parse data; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+# Netscape HTTP Cookie File
+# This is a generated file! Do not edit.
+
+# domain  include_subdomains  path  secure  expiration_date  name  value
+.youtube.com TRUE / TRUE 1756313881 __Secure-1PSIDCC AKEyXzWi3fE0jmePXfais7Vd-9Z3lGwrgcd0wIfLoFcRZwt5mUz0V2wD06Q35OXsWBYla0bSyg
+.youtube.com TRUE / TRUE 1759337659 PREF f6=80&tz=Asia.Calcutta
+.youtube.com TRUE / TRUE 1759337658 SAPISID PYU488kwFGXIS2W-/AZ7q8T3QorWzgtD72
+.youtube.com TRUE / FALSE 1759337658 APISID C_PDYouZvlrT2mlo/Aja9gpJz6QqLJ87Rq
+.youtube.com TRUE / FALSE 1756313881 SIDCC AKEyXzU5rJ9q2N3eoAkRKufs7jAW9gG0e6gembBo5OFiY3e1SUaRfWYoqxVxCD0rMVzHKvtB
+.youtube.com TRUE / TRUE 1759337658 __Secure-3PSID g.a000nQhm0P08ybqL9wuNG2rTZ-EhLQXlsunIuixRlNUTeu0DBbHkdphTayL0j6zhYyNquV_-fQACgYKATkSARESFQHGX2MiUA8spXeD8SRDhKsatqU46RoVAUF8yKqblNxtMhwz_Vi2atIc1FsF0076
+.youtube.com TRUE / TRUE 1756313658 __Secure-1PSIDTS sidts-CjIBUFGohz1QZylHybJhx26-e8maPoKOvWE9n7IGTDDiofCX_kYJXGZb0mJH0Vsi6JzglBAA
+.youtube.com TRUE / FALSE 1759337658 HSID AjCAHF817_4k-6QvN
+.youtube.com TRUE / TRUE 1759337658 __Secure-3PAPISID PYU488kwFGXIS2W-/AZ7q8T3QorWzgtD72
+.youtube.com TRUE / TRUE 1759337658 __Secure-1PSID g.a000nQhm0P08ybqL9wuNG2rTZ-EhLQXlsunIuixRlNUTeu0DBbHkmwmFWjflIYpqsfSUuF4adgACgYKAaMSARESFQHGX2MiGwFKMpOLXaD3tp9juhgpqRoVAUF8yKoDPDI5qsPq2KSpzS-9DpIA0076
+.youtube.com TRUE / TRUE 1759337658 SSID AfCtIaRAju6pvXQVw
+.youtube.com TRUE / TRUE 1740329635 VISITOR_PRIVACY_METADATA CgJJThIEGgAgRw%3D%3D
+.youtube.com TRUE / TRUE 1724779435 GPS 1
+.youtube.com TRUE / TRUE 1759337658 __Secure-1PAPISID PYU488kwFGXIS2W-/AZ7q8T3QorWzgtD72
+.youtube.com TRUE / FALSE 1759337658 SID g.a000nQhm0P08ybqL9wuNG2rTZ-EhLQXlsunIuixRlNUTeu0DBbHkIutRtDD144SB1EB6brvgxwACgYKATwSARESFQHGX2MiSrk3gAfP8xy0dTfQHQkTkhoVAUF8yKr0wrunDL94yeKxq6T1LRBM0076
+.youtube.com TRUE / TRUE 1756313658 __Secure-3PSIDTS sidts-CjIBUFGohz1QZylHybJhx26-e8maPoKOvWE9n7IGTDDiofCX_kYJXGZb0mJH0Vsi6JzglBAA
+.youtube.com TRUE / TRUE 1740329635 VISITOR_INFO1_LIVE O-aI3SCmBTs
+.youtube.com TRUE / TRUE 1756313881 __Secure-3PSIDCC AKEyXzW3g61fq_9uQr7UF_jExsSMpZFNVaDzqWP0m-3XHTf7QKigb531HvWA6dgFQyHvq3gjyQ
+.youtube.com TRUE / TRUE 1759337658 LOGIN_INFO AFmmF2swRQIhAPX4nJefdnZ06dzfk4aaucs_F2fLzneD0JjoFAq8vpVrAiB6ng1Gous87PXtpn1lU3jDCLpDIXaqn1itKjyCykneag:QUQ3MjNmd01pbUNDTm1HcWg1ZlJiampTWjBDcTBfYTNGd1dGeXVtMkdIMlhyajRucHlJV0docmVHMHpyd21VZ3EzMV95TU13QWdOODVPT3o0ejE5SGxwc2oxTTk2QkJzRWVTU1E4YVZHWGpEWXBOdk9qbl84bmtCckk2WUoxV2l0RXQzNk1QMGM1dS1SbzMxd3Exck9fRmtDOFNTS1Y4N0Rn
+.youtube.com TRUE / TRUE 0 YSC tYWAFZVg7dY
