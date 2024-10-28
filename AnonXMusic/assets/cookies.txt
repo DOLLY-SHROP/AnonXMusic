@@ -1,23 +1,24 @@
-# Netscape HTTP Cookie File
-# This is a generated file! Do not edit.
-
-# domain  include_subdomains  path  secure  expiration_date  name  value
-.youtube.com	TRUE	/	TRUE	1761588675	__Secure-1PSIDCC	AKEyXzWrNRDSoe4ScEaAROBHaAxTKug2GCdAT3mVOtd4GgVd4bK-vl65RPwQGk9TOyG4w_tJCA
-.youtube.com	TRUE	/	TRUE	1761588675	__Secure-3PSIDCC	AKEyXzVl2ypp2jJmKE4uNcDLIMw67Jsn6yRlOGkGs7CsJdeZL_tGpmzagzmPogkVDZsL0azz
-.youtube.com	TRUE	/	TRUE	0	YSC	w4LjQj8of5Y
-.youtube.com	TRUE	/	TRUE	1764514663	LOGIN_INFO	AFmmF2swRgIhAIK6Cjm6O3mF0XRozkrJBZQQGheUGhY8szlc20WXcKSTAiEA4iLXDZ6_uaSc-wb6wpZJOD2Z3u3mDtJmSRwKemW-toc:QUQ3MjNmeUZtY0wzcDJ3eWJfNkcxWjNRRmNUYzhJSXZ2bU1wR25NUG5aTDM3MVNHTDI1bEMyVnhQT1dzdFMzZTVOa055YzV2Sm9CSU9rcDR2aWVCUFpweTM5S3ctMXQyNzdZQmJBMUw5Qlk4enVNQnlZTzZiTzFCeEVybDAzVlVrRGVsSWswWlZsbHUtZW5TSXRkUWlIVWtGcUdkLTl2ak1R
-.youtube.com	TRUE	/	TRUE	1764514663	SAPISID	ftXvHVDa5aq5k6sr/At-a6hz7FDmanTDgK
-.youtube.com	TRUE	/	FALSE	1764514663	APISID	vvH-lpdH5VBe0Lx5/AMtfk5doQht2DIpRi
-.youtube.com	TRUE	/	TRUE	1744720656	VISITOR_INFO1_LIVE	PCIDty3xzdQ
-.youtube.com	TRUE	/	TRUE	1761490658	__Secure-3PSIDTS	sidts-CjIBQT4rX29E_Gg11XFHj48tg2zZPHvHRTWyiLgXmkKr9aiayeetdUAg3Fx_6bv_5rfoABAA
-.youtube.com	TRUE	/	FALSE	1761588675	SIDCC	AKEyXzUnEYpP-88l0Wl9JUlyy9MKh0UEITCcwm5vjNBl4w6KSnqdjmetF0vVwBaPmTHIbFfdtw
-.youtube.com	TRUE	/	TRUE	1764514663	__Secure-3PSID	g.a000pgiZerIW7aC44qoagd06ISyV1a9Y_EsiOZmVY1-1AsJJcNv5-ssItdrVhLKdH_-vo7cDkAACgYKAbASARcSFQHGX2MiY6TwPZTxoJC3-jxIt8didBoVAUF8yKpwvFvB91dEZ6AEwtjW_eKh0076
-.youtube.com	TRUE	/	FALSE	1764514663	HSID	Ava9yBvFf0sizvfFz
-.youtube.com	TRUE	/	TRUE	1761490658	__Secure-1PSIDTS	sidts-CjIBQT4rX29E_Gg11XFHj48tg2zZPHvHRTWyiLgXmkKr9aiayeetdUAg3Fx_6bv_5rfoABAA
-.youtube.com	TRUE	/	TRUE	1764514663	__Secure-1PSID	g.a000pgiZerIW7aC44qoagd06ISyV1a9Y_EsiOZmVY1-1AsJJcNv5byZPltO-wXpviZ0oV_FA1QACgYKAV4SARcSFQHGX2MimR_IdfhEdLICMoH9LBUWvhoVAUF8yKoHBV0dnEpFhtiIZumuR4JN0076
-.youtube.com	TRUE	/	TRUE	1764514663	__Secure-3PAPISID	ftXvHVDa5aq5k6sr/At-a6hz7FDmanTDgK
-.youtube.com	TRUE	/	TRUE	1764612657	PREF	tz=Asia.Calcutta&f7=100
-.youtube.com	TRUE	/	FALSE	1764514663	SID	g.a000pgiZerIW7aC44qoagd06ISyV1a9Y_EsiOZmVY1-1AsJJcNv5hzLnPOCW7K4uF9H6DG8uTgACgYKASISARcSFQHGX2MimX4VwAPzIjSKYdmic_GcUxoVAUF8yKrhHe_oUCUNdi5xdrPwmnfE0076
-.youtube.com	TRUE	/	TRUE	1764514663	__Secure-1PAPISID	ftXvHVDa5aq5k6sr/At-a6hz7FDmanTDgK
-.youtube.com	TRUE	/	TRUE	1764514663	SSID	A6Ja-EYRIIbWM4KT-
-.youtube.com	TRUE	/	TRUE	1744720656	VISITOR_PRIVACY_METADATA	CgJJThIEGgAgUA%3D%3D
+[debug] System config: []
+[debug] User config: ['-o', 'I:/youtube-dl/%(extractor)s/%(title)s-%(uploader)s-%(channel_id)s-%(channel)s-%(id)s.%(ext)s', '-f', 'bestvideo[height<=?1080]+bestaudio/best', '--write-thumbnail', '--cookies', 'C:UsersGEN32UCAppDataRoamingyoutube-dlcookies.txt', '--write-sub', '--write-auto-sub', '--sub-lang', 'en-GB']
+[debug] Custom config: []
+[debug] Command-line args: ['https://www.facebook.com/bryan.castillo.5836711/videos/1825626214282572', '--verbose']
+[debug] Encodings: locale cp1252, fs utf-8, out utf-8, pref cp1252
+[debug] youtube-dl version 2021.03.14
+[debug] Python version 3.8.2 (CPython) - Windows-10-10.0.19041-SP0
+[debug] exe versions: ffmpeg N-92966-gd52a1be4e3, ffprobe N-92966-gd52a1be4e3
+[debug] Proxy map: {}
+[facebook] 1825626214282572: Downloading webpage
+[facebook] 1825626214282572: Downloading webpage
+ERROR: Cannot parse data; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+Traceback (most recent call last):
+  File "c:\users\gen32uc\appdata\local\programs\python\python38\lib\site-packages\youtube_dl\YoutubeDL.py", line 806, in wrapper
+    return func(self, *args, **kwargs)
+  File "c:\users\gen32uc\appdata\local\programs\python\python38\lib\site-packages\youtube_dl\YoutubeDL.py", line 827, in __extract_info
+    ie_result = ie.extract(url)
+  File "c:\users\gen32uc\appdata\local\programs\python\python38\lib\site-packages\youtube_dl\extractor\common.py", line 534, in extract
+    ie_result = self._real_extract(url)
+  File "c:\users\gen32uc\appdata\local\programs\python\python38\lib\site-packages\youtube_dl\extractor\facebook.py", line 677, in _real_extract
+    return self._extract_from_url(real_url, video_id)
+  File "c:\users\gen32uc\appdata\local\programs\python\python38\lib\site-packages\youtube_dl\extractor\facebook.py", line 591, in _extract_from_url
+    raise ExtractorError('Cannot parse data')
+youtube_dl.utils.ExtractorError: Cannot parse data; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
